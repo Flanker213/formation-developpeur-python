@@ -47,6 +47,8 @@ Encore une fois, c'est un exercice assez challengeant, n'hésitez pas à faire b
 Et si vous n'y arrivez pas, nul besoin de s'acharner, c'est normal, l'exercice fait appel à beaucoup de notions.
 """
 
+# chaine = "Pierre, Julien, Anne, Marie, Lucien"
+
 chaine = "Pierre, Julien, Anne, Marie, Lucien"
 
 chaine_liste = chaine.split(", ") # split() Sépare la chaîne de caractères sur les caractères passés en argument et retourne une liste
